@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Raybans",
+      "price": 1090.0,
+      "imgUrl": "/imgs/raybans.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tommy Hilfiger",
+      "price": 11990.0,
+      "imgUrl": "/imgs/watch.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Seiko",
+      "price": 5990.0,
+      "imgUrl": "/imgs/watch2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "IWC Luxury",
+      "price": 140000.0,
+      "imgUrl": "/imgs/watch3.jpg"
+    }
+  ]
